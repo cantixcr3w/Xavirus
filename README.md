@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/cantixcr3w/Xavirus"><img src="https://i.ibb.co/9rDb875/IMG-20200128-WA0069.jpg" alt="Xavirus"></a>
+  <a href="https://github.com/cantixcr3w/Xavirus"><img src="https://i.ibb.co/VCKrtjf/xavirus.jpg" alt="Xavirus"></a>
   <br>
 </h1>
 

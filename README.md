@@ -13,9 +13,13 @@
 - [x] Worm                  
 - [x] 1-20 sending virus    
 
-### _Available command line options_
+### _Install_
     
-      python Xavirus.py [number]
+    pkg update
+    pkg upgrade
+    git clone https://github.com/cantixcr3w/Xavirus
+    cd Xavirus
+    python xavirus.py
 
 
 -------------------------------------

@@ -14,8 +14,6 @@
 - [x] 1-20 sending virus    
 
 ### _Available command line options_
-
-    usage: vulnx [options]
     
       python Xavirus.py [number]
 
